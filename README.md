@@ -1,2 +1,2 @@
-# First_React_Project
-This is my first React-Js Project.
+# The_calculator.js
+This is a "javascript" project which is a calculator
